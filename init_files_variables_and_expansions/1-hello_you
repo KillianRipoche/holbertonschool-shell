@@ -1,2 +1,2 @@
 #!/bin/bash
-alias
+export user=hello user
